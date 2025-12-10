@@ -45,4 +45,4 @@ dist/
 build/
 coverage/
 out/
-/videos/mp4 (original)/
+/videos/.original/
